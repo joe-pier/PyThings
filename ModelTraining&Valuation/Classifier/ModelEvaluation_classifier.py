@@ -36,6 +36,8 @@ plt.savefig('stuff/confusionmatrix.png')
 print(classification_report(y_test, pred_test))
 # you should see some sort of table: you can see the precision, recall, f1-score & support
 
+##
+
 
 
 

@@ -18,3 +18,6 @@ random_iris = int(random.random())
 pred_test = model.predict([X_test[random_iris]])
 
 print(f'features: {X_test[random_iris]} \nreal target: {y_test[random_iris]} \npredicted target: {pred_test}')
+
+
+##
